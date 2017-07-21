@@ -13,7 +13,7 @@ namespace human_recognition_app
         {
             InitializeComponent();
 
-            MainPage = new human_recognition_app.MainPage();
+            MainPage = new human_recognition_app.TabsPage();
         }
 
         protected override void OnStart()
@@ -32,3 +32,4 @@ namespace human_recognition_app
         }
     }
 }
+ 

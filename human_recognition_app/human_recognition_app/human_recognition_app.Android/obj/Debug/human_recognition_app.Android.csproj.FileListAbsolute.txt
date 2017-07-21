@@ -1,3 +1,4 @@
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\human_recognition_app.Android.csprojResolveAssemblyReference.cache
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\human_recognition_app.Android.dll
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\human_recognition_app.Android.pdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\human_recognition_app.Android.apk
@@ -18,12 +19,15 @@ C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\human_recognition_app.pdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\human_recognition_app.Android.csprojResolveAssemblyReference.cache
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\human_recognition_app.Android.dll
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\human_recognition_app.Android.pdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\android\bin\human_recognition_app.Android.apk
@@ -37,10 +41,6 @@ C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\R.cs.flag
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\uploadflags.txt
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\human_recognition_app.dll.mdb
-C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\FormsViewGroup.dll.mdb
-C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
-C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\bin\Debug\human_recognition_app.Android.dll.mdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app.Android\obj\Debug\android\assets\human_recognition_app.Android.dll.mdb

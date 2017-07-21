@@ -1,3 +1,7 @@
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.App.xaml.g.cs
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.AzureTable.xaml.g.cs
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.CustomVision.xaml.g.cs
+C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.TabsPage.xaml.g.cs
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\bin\Debug\human_recognition_app.dll
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\bin\Debug\human_recognition_app.pdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\bin\Debug\Xamarin.Forms.Core.dll
@@ -8,8 +12,5 @@ C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.csprojResolveAssemblyReference.cache
-C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.MainPage.xaml.g.cs
-C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.App.xaml.g.cs
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.dll
 C:\Users\dylan\Documents\GitHub\msa_mod2\human_recognition_app\human_recognition_app\human_recognition_app\obj\Debug\human_recognition_app.pdb
