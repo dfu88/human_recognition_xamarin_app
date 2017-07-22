@@ -100,6 +100,11 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "human_recognition_app.Android.dll" comes first in this list. */
 		"human_recognition_app.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.CurrentActivity.dll",
+		"Plugin.Media.Abstractions.dll",
+		"Plugin.Media.dll",
+		"Plugin.Permissions.Abstractions.dll",
+		"Plugin.Permissions.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
@@ -116,5 +121,5 @@ class MonoPackageManager_Resources {
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_23";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_25";
 }
