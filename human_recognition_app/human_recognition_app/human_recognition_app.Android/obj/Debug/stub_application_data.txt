@@ -1,2 +1,0 @@
-android.app.Application
-human_recognition_app.Android
