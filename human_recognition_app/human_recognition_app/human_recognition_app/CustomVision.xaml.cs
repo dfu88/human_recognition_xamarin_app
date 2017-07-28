@@ -24,7 +24,7 @@ namespace human_recognition_app
             InitializeComponent();
         }
 
-        private async void loadCamera(object sender, EventArgs e)
+        private async void GetCamera(object sender, EventArgs e)
         {
             await CrossMedia.Current.Initialize();
 
@@ -49,7 +49,7 @@ namespace human_recognition_app
                 return file.GetStream();
             });
 
-            await MakePredictionRequest(file);
+            await RequestPrediction(file);
         }
 
         static byte[] GetImageAsByteArray(MediaFile file)
@@ -59,7 +59,7 @@ namespace human_recognition_app
             return binaryReader.ReadBytes((int)stream.Length);
         }
 
-        async Task MakePredictionRequest(MediaFile file)
+        async Task RequestPrediction(MediaFile file)
         {
             var client = new HttpClient();
 
@@ -86,11 +86,17 @@ namespace human_recognition_app
 
                     double max = responseModel.Predictions.Max(m => m.Probability);
 
-                    TagLabel.Text = (max >= 0.5) ? "This is a Human" : "This is NOT a Human";
+                    PredictionLabel.Text = (max >= 0.5) ? "This is a Human" : "This is NOT a Human";
 
+                    HumanRecognitionModel model = new HumanRecognitionModel()
+                    {
+                        PredictionValue = (float)max
+
+                    };
+
+                    await AzureManager.AzureManagerInstance.PostHumanRecognitionInformation(model);
                 }
 
-                //Get rid of file once we have finished using it
                 file.Dispose();
             }
         }
