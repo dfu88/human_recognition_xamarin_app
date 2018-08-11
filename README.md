@@ -1,1 +1,2 @@
-# msa_mod2
+# Human Recognition App
+## Utilised Xamarin to make the cross platform app
